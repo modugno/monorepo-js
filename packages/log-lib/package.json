@@ -1,6 +1,6 @@
 {
     "name": "@my-monorepo/log-lib",
     "main": "index.js",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "gitHead": "cdf1cd20c9dad999375973826095fe2bf7e8fae4"
 }
