@@ -1,0 +1,9 @@
+{
+    "name": "@my-monorepo/app",
+    "main": "index.js",
+    "version": "1.0.0",
+    "dependencies": {
+        "@my-monorepo/log-lib": "1.0.2",
+        "@my-monorepo/math-lib": "1.0.2"
+    }
+}
